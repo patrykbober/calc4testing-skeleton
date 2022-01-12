@@ -1,5 +1,7 @@
 # ASE Calc Microservice
 
+[![Build Status](https://app.travis-ci.com/patrykbober/calc4testing-skeleton.svg?token=8hHeqJRCq27AmM4cUtDu&branch=master)](https://app.travis-ci.com/patrykbober/calc4testing-skeleton)
+
 [![Coverage Status](https://coveralls.io/repos/github/teto1992/calc2021/badge.svg?branch=main)](https://coveralls.io/github/teto1992/calc2021?branch=main)
 
 ### Setup the environment
